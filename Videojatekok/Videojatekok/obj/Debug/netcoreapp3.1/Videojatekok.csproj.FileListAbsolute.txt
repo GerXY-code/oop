@@ -1,0 +1,27 @@
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.exe
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.deps.json
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.runtimeconfig.json
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.runtimeconfig.dev.json
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.dll
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.pdb
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.csprojAssemblyReference.cache
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.AssemblyInfoInputs.cache
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.AssemblyInfo.cs
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.csproj.CoreCompileInputs.cache
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.dll
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.pdb
+C:\Users\leg1htv\source\repos\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.genruntimeconfig.cache
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.exe
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.deps.json
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.runtimeconfig.json
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.runtimeconfig.dev.json
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.dll
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\bin\Debug\netcoreapp3.1\Videojatekok.pdb
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.csproj.AssemblyReference.cache
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.AssemblyInfoInputs.cache
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.AssemblyInfo.cs
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.csproj.CoreCompileInputs.cache
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.dll
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.pdb
+C:\Users\gerix\OneDrive\Asztali gép\Videojatekok\Videojatekok\obj\Debug\netcoreapp3.1\Videojatekok.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\bin\Debug\netcoreapp3.1\VideojatekForm.exe
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\bin\Debug\netcoreapp3.1\VideojatekForm.deps.json
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\bin\Debug\netcoreapp3.1\VideojatekForm.runtimeconfig.json
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\bin\Debug\netcoreapp3.1\VideojatekForm.runtimeconfig.dev.json
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\bin\Debug\netcoreapp3.1\VideojatekForm.dll
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\bin\Debug\netcoreapp3.1\VideojatekForm.pdb
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.csprojAssemblyReference.cache
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.Form1.resources
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.csproj.GenerateResource.cache
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.AssemblyInfoInputs.cache
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.AssemblyInfo.cs
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.csproj.CoreCompileInputs.cache
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.csproj.CopyComplete
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.dll
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.pdb
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.genruntimeconfig.cache
+C:\Users\leg1htv\source\repos\VideojatekForm\VideojatekForm\obj\Debug\netcoreapp3.1\VideojatekForm.AddGame.resources

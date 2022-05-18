@@ -1,0 +1,9 @@
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.csproj.AssemblyReference.cache
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.AddGame.resources
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.Form1.resources
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.csproj.GenerateResource.cache
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.AssemblyInfoInputs.cache
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.AssemblyInfo.cs
+C:\Users\gerix\OneDrive\Asztali gép\VideojatekForm\VideojatekForm\obj\Debug\net35\VideojatekForm.csproj.CoreCompileInputs.cache
